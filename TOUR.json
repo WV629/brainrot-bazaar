@@ -1,0 +1,1 @@
+{"steps":[{"screenshot":"1-cover.jpg"},{"call":{"arg":1250,"fn":"formatMoney","module":"ReplicatedStorage.Shared.Economy","on":"Client"},"keys":["F"],"screenshot":"2-play.jpg","wait_ms":1000},{"call":{"arg":0,"fn":"secondsUntilWave","module":"ReplicatedStorage.Shared.WaveController","on":"Server"},"screenshot":"3-wave.jpg"}],"tour":1}
